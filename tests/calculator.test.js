@@ -1,0 +1,12 @@
+const assert = require('node:assert/strict');
+const {calculatePosition: c} = require('../assets/app.js');
+const r = c(1000, .25, 1.1, 1.098, .0002, 1);
+assert.equal(r.units, 908);
+assert.ok(r.plannedLoss <= r.budget);
+assert.ok(r.notional + r.units * .0002 <= 1000);
+assert.ok(c(1000,.25,1.1,1.1,0,1).error);
+assert.ok(c(1000,.25,1.1,1.098,-1,1).error);
+assert.ok(c(1000,.25,1.1,1.098,0,10000).error);
+assert.ok(c(NaN,.25,1.1,1.098,0,1).error);
+assert.ok(c(1000,.25,1.1,1.098,0,1.2).error);
+console.log('Calculator: 8 assertions passed.');
