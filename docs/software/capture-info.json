@@ -1,0 +1,17 @@
+{
+  "capture_date_utc": "2026-11-09",
+  "software": {
+    "Python": "3.11.2",
+    "JupyterLab": "4.6.6",
+    "Backtesting.py": "0.6.6",
+    "Bokeh": "3.9.2",
+    "Matplotlib": "3.11.2",
+    "pandas": "3.1.1",
+    "numpy": "2.4.6"
+  },
+  "browser": "Chromium 153.0.8010.0",
+  "method": "Playwright screenshots of the real locally running JupyterLab: one full viewport and six cropped code/output cells; one full Backtesting.py/Bokeh report",
+  "data": "seed 42 synthetic hourly series, continuous including weekends; not historical FX data",
+  "broker_connection": false,
+  "auth_tokens_in_images": false
+}

@@ -1,0 +1,418 @@
+[
+  {
+    "lesson": 1,
+    "title": "نقشه کتاب و قرارداد یادگیری",
+    "path": "images/lesson-01.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 2,
+    "title": "تفکیک دارایی، بازار و قرارداد",
+    "path": "images/lesson-02.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 3,
+    "title": "انتخاب پایلوت و مرز نسخه اول",
+    "path": "images/lesson-03.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 4,
+    "title": "خواندن EUR/USD، پیپ و واحد",
+    "path": "images/lesson-04.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 5,
+    "title": "اسپرد، کمیسیون و لغزش",
+    "path": "images/lesson-05.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 6,
+    "title": "اهرم، مارجین و حفظ اصل پول",
+    "path": "images/lesson-06.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 7,
+    "title": "ساعات بازار و تقویم جهانی",
+    "path": "images/lesson-07.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 8,
+    "title": "حداقل سفارش و معاملات خرد",
+    "path": "images/lesson-08.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 9,
+    "title": "نصب محیط پژوهش پایتون",
+    "path": "images/lesson-09.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 10,
+    "title": "آشنایی تصویری با JupyterLab",
+    "path": "images/jupyter-overview.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. ستون چپ فایل‌ها؛ میانه سلول‌ها؛ پایین نام kernel."
+  },
+  {
+    "lesson": 11,
+    "title": "بازتولید داده و گزارش نمونه",
+    "path": "images/lesson-11.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 12,
+    "title": "ساختار پوشه‌ها و نسخه‌بندی",
+    "path": "images/lesson-12.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 13,
+    "title": "کیفیت داده: زمان و OHLC",
+    "path": "images/jupyter-validation.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. خروجی True فقط کنترل‌های اولیه همین سلول را نشان می‌دهد."
+  },
+  {
+    "lesson": 14,
+    "title": "کندل بسته و جلوگیری از نگاه به آینده",
+    "path": "images/lesson-14.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 15,
+    "title": "نمایش نمودار در نوت‌بوک",
+    "path": "images/jupyter-chart.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. آبی قیمت ساختگی و نارنجی میانگین؛ نمودار پایین سلول رسم شده است."
+  },
+  {
+    "lesson": 16,
+    "title": "سه زمان برای هر خبر",
+    "path": "images/lesson-16.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 17,
+    "title": "انتخاب منابع خبری معتبر",
+    "path": "images/lesson-17.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 18,
+    "title": "تلگرام: جمع‌آوری مجاز و ایمن",
+    "path": "images/lesson-18.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 19,
+    "title": "شبکه اجتماعی، هیجان و دست‌کاری",
+    "path": "images/lesson-19.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 20,
+    "title": "حذف تکرار و نگهداری منشأ",
+    "path": "images/lesson-20.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 21,
+    "title": "Schema رویداد خبری",
+    "path": "images/jupyter-news.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. فیلد verified برابر False و تصمیم NO_TRADE است."
+  },
+  {
+    "lesson": 22,
+    "title": "مقاومت در برابر تزریق دستور",
+    "path": "images/lesson-22.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 23,
+    "title": "تحلیل خبر با کمک AI",
+    "path": "images/lesson-23.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 24,
+    "title": "تقویم اقتصادی و زمان انتشار آمار",
+    "path": "images/lesson-24.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 25,
+    "title": "برچسب‌گذاری و آزمون افزوده‌شدن خبر",
+    "path": "images/lesson-25.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 26,
+    "title": "معماری چندبازاری و قرارداد ماژول‌ها",
+    "path": "images/lesson-26.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 27,
+    "title": "نوشتن استراتژی قابل‌تکرار",
+    "path": "images/lesson-27.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 28,
+    "title": "افق چنددقیقه‌ای تا چندروزه",
+    "path": "images/lesson-28.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 29,
+    "title": "حد ضرر، هدف و خروج زمانی",
+    "path": "images/lesson-29.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 30,
+    "title": "محاسبه حجم: مثال اجرایی در نوت‌بوک",
+    "path": "images/jupyter-sizing.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. مقادیر ورودی بالا و بودجه و حجم محاسبه‌شده در خروجی‌اند."
+  },
+  {
+    "lesson": 31,
+    "title": "سقف ریسک حساب و همبستگی",
+    "path": "images/lesson-31.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 32,
+    "title": "حالت عدم معامله و توقف ایمن",
+    "path": "images/lesson-32.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 33,
+    "title": "Market، Limit و Stop",
+    "path": "images/lesson-33.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 34,
+    "title": "چرخه عمر سفارش و شناسه یکتا",
+    "path": "images/lesson-34.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 35,
+    "title": "حساب دمو و محدودیت شبیه‌سازی",
+    "path": "images/lesson-35.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 36,
+    "title": "خواندن گزارش واقعی Backtesting.py",
+    "path": "images/backtesting-report.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی Backtesting.py / Bokeh؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. بالا منحنی سرمایه؛ پایین قیمت و مسیر معاملات؛ ابزار زوم در راست."
+  },
+  {
+    "lesson": 37,
+    "title": "ژورنال تصمیم و اجرای معامله",
+    "path": "images/jupyter-journal.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. جدول خروجی شامل زمان، حجم، قیمت و سود/زیان شبیه‌سازی است."
+  },
+  {
+    "lesson": 38,
+    "title": "کلیدها، مجوزها و امنیت نرم‌افزار",
+    "path": "images/lesson-38.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 39,
+    "title": "پایش سلامت و کلید توقف",
+    "path": "images/lesson-39.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 40,
+    "title": "تست واحد و آزمون خرابی",
+    "path": "images/lesson-40.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 41,
+    "title": "بک‌تست معتبر و فرض‌های اجرا",
+    "path": "images/lesson-41.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 42,
+    "title": "تقسیم زمانی و Walk-forward",
+    "path": "images/lesson-42.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 43,
+    "title": "نشت داده در مدل خبری و زبانی",
+    "path": "images/lesson-43.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 44,
+    "title": "معیارهای عملکرد: فراتر از درصد برد",
+    "path": "images/jupyter-results.png",
+    "kind": "real_software_screenshot",
+    "data": "synthetic / training only",
+    "caption": "اسکرین‌شات واقعی JupyterLab؛ داده و نتیجه ساختگی آموزشی، بدون اتصال کارگزار. خلاصه نمایش داده می‌شود؛ این اعداد عملکرد بازار واقعی نیستند."
+  },
+  {
+    "lesson": 45,
+    "title": "تست حساسیت هزینه و تأخیر",
+    "path": "images/lesson-45.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "نمودار یا طرح توضیحی با اعداد و وضعیت‌های فرضی؛ نه داده بازار و نه اسکرین‌شات نرم‌افزار. برچسب‌های فنی داخل شکل انگلیسی‌اند."
+  },
+  {
+    "lesson": 46,
+    "title": "فورواردتست و معیار عبور",
+    "path": "images/lesson-46.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 47,
+    "title": "عملیات ۲۴ساعته و بازیابی",
+    "path": "images/lesson-47.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 48,
+    "title": "افزودن طلا، شاخص و سهام",
+    "path": "images/lesson-48.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 49,
+    "title": "افزودن رمزارز و مدیریت هم‌زمان بازارها",
+    "path": "images/lesson-49.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 50,
+    "title": "پروژه نهایی و چک‌لیست تحویل",
+    "path": "images/lesson-50.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 51,
+    "title": "برگه بازبینی و امتیاز آمادگی",
+    "path": "images/lesson-51.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  },
+  {
+    "lesson": 52,
+    "title": "منابع، فایل‌های همراه و پاسخ تمرین‌ها",
+    "path": "images/lesson-52.png",
+    "kind": "concept_diagram",
+    "data": "synthetic / training only",
+    "caption": "شکل مفهومی اختصاصی این درس؛ از راست به چپ بخوانید. این تصویر اسکرین‌شات نرم‌افزار نیست."
+  }
+]

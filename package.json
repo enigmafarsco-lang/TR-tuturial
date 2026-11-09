@@ -1,0 +1,15 @@
+{
+  "name": "atlas-trading-workbook",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Optional browser tools for rebuilding the illustrated Persian workbook",
+  "scripts": {
+    "test": "node tests/calculator.test.js",
+    "render:book": "node scripts/render_book.cjs",
+    "capture:software": "node scripts/capture_software.cjs"
+  },
+  "devDependencies": {
+    "@sparticuz/chromium": "153.0.0",
+    "playwright-core": "1.65.0"
+  }
+}
